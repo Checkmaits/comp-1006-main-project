@@ -1,0 +1,14 @@
+{
+  "name": "brockmaitlandmowry/final-project",
+  "description": "Brocker - A simple social media platform",
+  "type": "project",
+  "require": {
+    "twig/twig": "^3.8"
+  },
+  "authors": [
+    {
+      "name": "Brock Mowry",
+      "email": "brock.m.mowry@gmail.com"
+    }
+  ]
+}
